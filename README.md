@@ -2,6 +2,16 @@
 
 Converts freelance job descriptions into structured workflow diagrams using AI and a custom DSL.
 
+## ⚙️ Technologies Used
+
+- **Node.js** – runtime for executing the CLI tool  
+- **JavaScript (ES6+)** – core application logic  
+- **Markdown Parsing** – processing structured job description inputs  
+- **Custom DSL (Domain-Specific Language)** – defines workflow structure and logic  
+- **AI Prompt Engineering** – transforms unstructured text into structured workflows  
+- **Excalidraw JSON Schema** – generates diagram-compatible outputs  
+- **CLI / Terminal (PowerShell/Bash)** – command execution and automation  
+
 ## ❗ Problem
 Freelance applications are time-consuming and unclear. Developers often spend 50–70 minutes breaking down requirements and partially designing systems before even applying.
 
