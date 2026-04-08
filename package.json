@@ -1,0 +1,16 @@
+{
+  "name": "excalidraw-agent-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "excalidraw:create": "node tools/create-excalidraw.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@swiftlysingh/excalidraw-cli": "^1.2.0"
+  }
+}
